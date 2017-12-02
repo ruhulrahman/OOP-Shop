@@ -17,7 +17,7 @@
     <div class="content">
     	<div class="section group">
     		<div class="notfound">
-    			<h1><span>404</span>Not Found!</h1>
+    			<h1><span>404</span>Page Not Found!</h1>
     		</div>
     	</div>  	
        <div class="clear"></div>
